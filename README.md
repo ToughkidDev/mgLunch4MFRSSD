@@ -49,9 +49,7 @@ toughkidcst@gmail.com
 
 
 Youtube Video Links
-- https://www.youtube.com/watch?v=YnKgH6TTlg0&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=77
-- https://www.youtube.com/watch?v=oNPzevBzs64&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=80
-- https://www.youtube.com/watch?v=dIU_seNB6-E&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=7
+
 - https://www.youtube.com/watch?v=PuNxzULH6jQ&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=8
 - https://www.youtube.com/watch?v=2cmA5ZL4a7k&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=75
 - https://www.youtube.com/watch?v=7YDBAJa8rag&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=76
