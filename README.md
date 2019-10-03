@@ -45,7 +45,7 @@ MSXDOS2, Nextor, MegaFlashSCC+SD 128KB above
 
 
 CONTACT
-toughkidcst@gmail.com
+toughkiddev@gmail.com
 
 
 Youtube Video Links
