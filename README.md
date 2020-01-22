@@ -1,5 +1,5 @@
 # mgLunch4MFRSSD
-MSX mgLunch for MegaFlashRomSCC+SD
+MSX mgLunch for MegaFlashRomSCC+SD 
 
 
 mgLunch! is a MSX ROM launcher for MegaFlashSDSCC+
@@ -9,13 +9,14 @@ mgLunch! is a MSX ROM launcher for MegaFlashSDSCC+
 
 
 
-v0.2beta :
+v1.19 :
 
 USAGE
 
     mgLunch.com - mgLunch! for MegaFlashSDSCC+ 
     opfxsd.com  - romloader for MegaFlashSDSCC+
     mglCook.exe - rom file scanner for Windows xp/vista/7/8/8.1/10 
+    
 
 Operations Keys
 
@@ -36,6 +37,7 @@ Operations Keys
     [s] = forced execute rom on Konami-SCC Mapper 
     [8] = forced execute rom on Ascii-8 Mapper  
     [f] = forced execute rom on Ascii16 Mapper 
+    [o] = Konami GameMaster2 Combo effect. 
     [e] = Emulate European Key MSX
     [j] = Emulate Japanese Key MSX
     [p] = Patch ROM to use MFRSSD PSG 
