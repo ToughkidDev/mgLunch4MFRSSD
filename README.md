@@ -57,13 +57,13 @@ toughkiddev@gmail.com
 
 Youtube Video Links
 
-        mgLunch! for MegaFlashROM SD SCC+ in action
+###mgLunch! for MegaFlashROM SD SCC+ in action
 - https://www.youtube.com/watch?v=PuNxzULH6jQ&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=8
 
-        Konami Game Master 2 Cartridge (コナミの新10倍カートリッジ) effects in action. 
+###Konami Game Master 2 Cartridge (コナミの新10倍カートリッジ) effects in action. 
 - https://www.youtube.com/watch?v=oPYG_nR55Ws&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=6
 
-        Various games on mgLunch! - MSX
+###Various games on mgLunch! - MSX
 - https://www.youtube.com/watch?v=2cmA5ZL4a7k&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=75
 - https://www.youtube.com/watch?v=7YDBAJa8rag&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=76
 
