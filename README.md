@@ -63,6 +63,9 @@ toughkiddev@gmail.com
 #### Konami Game Master 2 Cartridge (コナミの新10倍カートリッジ) effects in action. 
 - https://www.youtube.com/watch?v=oPYG_nR55Ws&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=6
 
+#### Testing mgLunch for MegaFlashRomSCC+SD in 16kB, 32kB MSX environment - YAMAHA CX5M 
+- https://www.youtube.com/watch?v=W4yUWOtuJi8&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=2
+
 #### Various games on mgLunch! - MSX
 - https://www.youtube.com/watch?v=2cmA5ZL4a7k&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=75
 - https://www.youtube.com/watch?v=7YDBAJa8rag&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=76
