@@ -1,6 +1,6 @@
 # mgLunch4MFRSSD
 MSX mgLunch for MegaFlashRomSCC+SD 
-ss    
+
 
 mgLunch! is a MSX ROM launcher for MegaFlashSDSCC+
 
