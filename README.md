@@ -18,6 +18,10 @@ USAGE
     mglCook.exe - rom file scanner for Windows xp/vista/7/8/8.1/10 
     
 
+##MSX MGLuNcH! Setup Guide.   https://youtu.be/qOpE3horClY
+[![MSX MGLuNcH! Setup Guide.](https://yt-embed.herokuapp.com/embed?v=qOpE3horClY)](https://www.youtube.com/watch?v=qOpE3horClY "MSX MGLuNcH! Setup Guide.")
+
+
 Operations Keys
 
     [F1] Search : Search Rom File 
@@ -68,9 +72,6 @@ toughkiddev@gmail.com
 
 #### Testing mgLunch for MegaFlashRomSCC+SD in 16kB MSX environment - CASIO MX-10 
 - https://www.youtube.com/watch?v=R6P42ekRej0&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=2
-
-#### MSX MGLuNcH! Setup Guide - (.feat) MMC/SDv4
-- https://www.youtube.com/watch?v=qOpE3horClY&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=183
 
 #### Various games on mgLunch! - MSX
 - https://www.youtube.com/watch?v=2cmA5ZL4a7k&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=75
