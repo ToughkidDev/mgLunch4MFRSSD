@@ -1,8 +1,8 @@
-# mgLunch4MFRSSD
+# mgLunch4MFRSSDwithOPFXSD
 MSX mgLunch for MegaFlashRomSCC+SD 
 
 
-mgLunch! is a MSX ROM launcher for MegaFlashSDSCC+
+mgLunch! is a MSX ROM launcher for MegaFlashSDSCC+ with OPFXSD
 
 ![mgLunch for MegaFlashRomSCC+SD](mgLunch4MFRSSD.jpg)
 
@@ -14,7 +14,7 @@ v1.19 :
 USAGE
 
     mgLunch.com - mgLunch! for MegaFlashSDSCC+ 
-    opfxsd.com  - romloader for MegaFlashSDSCC+
+    opfxsd.com  - romloader for MegaFlashSDSCC+ - https://www.msxcartridgeshop.com/
     mglCook.exe - rom file scanner for Windows xp/vista/7/8/8.1/10 
     
 
@@ -61,6 +61,10 @@ toughkiddev@gmail.com
 
 -------------------------
 ## Youtube Video Links
+
+#### Testing mgLunch for MegaFlashRomSCC+SD in 16kB MSX environment - CASIO MX-10 
+[![mgLunch for MegaFlashRomSCC+SD](https://yt-embed.herokuapp.com/embed?v=R6P42ekRej0)](https://www.youtube.com/watch?v=R6P42ekRej0 "mgLunch for MegaFlashRomSCC+SD")
+
 #### mgLunch! for MegaFlashROM SD SCC+ in action
 - https://www.youtube.com/watch?v=PuNxzULH6jQ&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=8
 
@@ -69,9 +73,6 @@ toughkiddev@gmail.com
 
 #### Testing mgLunch for MegaFlashRomSCC+SD in 32kB MSX environment - YAMAHA CX5M 
 - https://www.youtube.com/watch?v=W4yUWOtuJi8&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=2
-
-#### Testing mgLunch for MegaFlashRomSCC+SD in 16kB MSX environment - CASIO MX-10 
-- https://www.youtube.com/watch?v=R6P42ekRej0&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=2
 
 #### Various games on mgLunch! - MSX
 - https://www.youtube.com/watch?v=2cmA5ZL4a7k&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=75
