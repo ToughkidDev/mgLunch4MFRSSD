@@ -1,8 +1,8 @@
 # mgLunch4MFRSSDwithOPFXSD
-MSX mgLunch for MegaFlashRomSCC+SD 
+### MSX mgLunch! is a MSX ROM launcher for <strong>MegaFlashSDSCC+SD with OPFXSD</strong>
 
+<em>mgLunch! using <strong>MegaFlashSDSCC+ with SofaRom</strong> is released here. </em> - https://github.com/ToughkidDev/mgLunch4MFRSSDwithSofaRom
 
-mgLunch! is a MSX ROM launcher for MegaFlashSDSCC+ with OPFXSD
 
 ![mgLunch for MegaFlashRomSCC+SD](mgLunch4MFRSSD.jpg)
 
